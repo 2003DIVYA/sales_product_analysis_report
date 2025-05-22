@@ -11,6 +11,3 @@ Using Power BI, I built an interactive dashboard that helps visualize complex da
 
 This project sharpened my skills in data modeling, DAX, and storytelling through visuals — and I'm excited to apply these insights in real-world business environments!
 
-💬 I’d love to hear your thoughts or suggestions. Let’s connect and talk data!
-
-hashtag#PowerBI hashtag#SalesAnalysis hashtag#DataVisualization hashtag#BusinessIntelligence hashtag#ProductAnalytics hashtag#Dashboard hashtag#DataAnalysis hashtag#PowerBIDashboard
